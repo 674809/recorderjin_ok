@@ -1,0 +1,6 @@
+# ninja log v5
+1	254	1607098851	CMakeFiles/recoder-lib.dir/src/main/jni/openslPlay.c.o	24c9b7d84c2781a2
+1	258	1607098851	CMakeFiles/recoder-lib.dir/src/main/jni/openslRecord.c.o	4905d136ad467919
+258	320	1607098851	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	5301249ad1e7de10
+1	284	1607099086	CMakeFiles/recoder-lib.dir/src/main/jni/openslRecord.c.o	4905d136ad467919
+284	342	1607099086	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	5301249ad1e7de10
