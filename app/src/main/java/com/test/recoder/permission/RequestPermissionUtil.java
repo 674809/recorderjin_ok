@@ -10,12 +10,7 @@ import androidx.core.content.ContextCompat;
 //import android.support.v4.content.ContextCompat;
 
 
-/**
- * 项目名称: GooglePlay
- * 创建人: Eshel
- * 创建时间:2017/7/12 19时02分
- * 描述: TODO
- */
+
 
 public class RequestPermissionUtil {
 	/**

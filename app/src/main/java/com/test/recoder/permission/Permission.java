@@ -1,10 +1,5 @@
 package com.test.recoder.permission;
-/**
- * 项目名称: GooglePlay
- * 创建人: Eshel
- * 创建时间:2017/7/12 19时11分
- * 描述: TODO
- */
+
 
 public class Permission {
 	/**

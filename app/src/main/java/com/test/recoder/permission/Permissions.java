@@ -9,9 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 项目名称: GooglePlay
- * 创建人: Eshel
- * 创建时间:2017/7/12 19时11分
  * 描述: 动态权限管理类
  * 该类会自动判断系统版本,如果高于23,则会动态申请权限
  * 在MainActivity onCreate中:
